@@ -1,6 +1,5 @@
 import 'package:app_aerofarallones/constants.dart';
 import 'package:app_aerofarallones/models/news.dart';
-import 'package:app_aerofarallones/models/stats.dart';
 import 'package:app_aerofarallones/providers/news_provider.dart';
 import 'package:app_aerofarallones/providers/stats_provider.dart';
 import 'package:flutter/material.dart';
